@@ -1,3 +1,6 @@
-fghetgnkt
-kjdmrydh
-cghdyd
+public class repo
+{
+public static void main(String[]args)
+{
+}
+}
