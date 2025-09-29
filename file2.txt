@@ -2,5 +2,6 @@ public class repo
 {
 public static void main(String[]args)
 {
+system out println"i love u maaaa"
 }
 }
